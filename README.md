@@ -33,6 +33,7 @@ student-performance-predictor/
 ├── predict.py      # Prediction script
 ├── model.pkl       # Saved trained model
 └── README.md       # Project documentation
+
 🎯 Key Features
 Simple and easy-to-use ML model.
 
